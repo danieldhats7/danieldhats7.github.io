@@ -1,0 +1,7 @@
+title: Jeancarlo Geldres Vásquez # your name (or website title) here
+logo: "/images/logo.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  Analista Comercial & Data Scientist       , Lima, Perú
+  <br><br>
+  Mis intereses son investigaciones y proyectos que promuevan la diversificación económica del mundo
+theme: jekyll-theme-minimal
