@@ -1,16 +1,16 @@
 # Bienvenido a mi Portafolio de Ciencia de Datos
 <a href="/pdf/plantilla-curriculum-blanco.pdf">Mira mi Curriculum Vitae (CV) </a> 
 <br><br>
-<a href="/pdf/Efecto de los factores internos en la rentabilidad bancaria.pdf">Mira mi Tesis de Bachiller </a>
+
 
 ---
 
 ### Mi primer proyecto
 
-[Titulo de mi primero proyecto](https://medium.com/@jeancarlogv10/el-efecto-del-covid-19-en-la-rentabilidad-del-bcp-a56fd9392067)
+[Titulo de mi primero proyecto](https://medium.com/@danieldhats7)
 <br><br>
-Evaluación de la tasa de crecimiento del ROA durante en período Enero 2014 al Abril 2021. [Seguir leyendo en Medium](https://medium.com/@jeancarlogv10/el-efecto-del-covid-19-en-la-rentabilidad-del-bcp-a56fd9392067) o [Ver código en GitHub](https://github.com/JeancarloGeldres/Analysis-Factors-Interns-)
-[<img src="images/cerdo-min (1).jpg?raw=true"/>](https://github.com/JeancarloGeldres/Analysis-Factors-Interns-)
+Analisis del precio de viviendas a partir de distintas caracteristicas. [Seguir leyendo en Medium](https://medium.com/@danieldhats7) o [Ver código en GitHub](https://github.com/danieldhats7/Advanced_Regression_Techniques)
+[<img src="images/house?price.jpg?raw=true"/>](https://github.com/danieldhats7/Advanced_Regression_Techniques)
 
 ---
 
