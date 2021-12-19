@@ -7,7 +7,7 @@
 
 ### Mi primer proyecto
 
-[El efecto del covid-19 en la rentabilidad del BCP](https://medium.com/@jeancarlogv10/el-efecto-del-covid-19-en-la-rentabilidad-del-bcp-a56fd9392067)
+[Titulo de mi primero proyecto](https://medium.com/@jeancarlogv10/el-efecto-del-covid-19-en-la-rentabilidad-del-bcp-a56fd9392067)
 <br><br>
 Evaluación de la tasa de crecimiento del ROA durante en período Enero 2014 al Abril 2021. [Seguir leyendo en Medium](https://medium.com/@jeancarlogv10/el-efecto-del-covid-19-en-la-rentabilidad-del-bcp-a56fd9392067) o [Ver código en GitHub](https://github.com/JeancarloGeldres/Analysis-Factors-Interns-)
 [<img src="images/cerdo-min (1).jpg?raw=true"/>](https://github.com/JeancarloGeldres/Analysis-Factors-Interns-)
@@ -29,22 +29,21 @@ Evaluación de los factores que determinan el precio de un seguro médico.[Segui
 ### Mis Skills son
 
 - Python
-- Excel
-- Power Point
-- Word
-- Power BI
-- R
-- Tableau
+- Sklearn
+- SQL
+- PosgreSQL
+- ETL
+- Analisis de datos
 
 ---
 
 ### Me puedes contactar por una de estás vías
 
-- [LinkedIn](https://www.linkedin.com/in/jeancarlo-geldres-v%C3%A1squez-251a19179/)
-- Envíame un mensaje a <jeancarlogeldres@hotmail.com>
-- [GitHub](https://github.com/JeancarloGeldres/Analysis-Factors-Interns-)
-- [Twitter](https://twitter.com/JeancarloGeldr1)
-- [Medium](https://medium.com/@jeancarlogv10)
+- [LinkedIn](https://www.linkedin.com/in/daniel-reyes-barrera-02b9731b0/)
+- Envíame un mensaje a <danieldhatsct@gmail.com>
+- [GitHub](https://github.com/danieldhats7)
+- [Twitter](https://twitter.com/danieldhats7)
+- [Medium](https://medium.com/@danieldhats7)
 - [Mi CV](/pdf/plantilla-curriculum-blanco.pdf)
 
 
