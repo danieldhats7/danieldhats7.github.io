@@ -1,7 +1,7 @@
-title: Jeancarlo Geldres Vásquez # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Daniel Reyes Barrera # your name (or website title) here
+logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Analista Comercial & Data Scientist       , Lima, Perú
+  Data Scientist       , Oaxaca, México
   <br><br>
-  Mis intereses son investigaciones y proyectos que promuevan la diversificación económica del mundo
+  Mis intereses son investigaciones y proyectos que promuevan el beneficio de muchas personas.
 theme: jekyll-theme-minimal
