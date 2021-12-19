@@ -10,7 +10,7 @@
 [Titulo de mi primero proyecto](https://medium.com/@danieldhats7)
 <br><br>
 Analisis del precio de viviendas a partir de distintas caracteristicas. [Seguir leyendo en Medium](https://medium.com/@danieldhats7) o [Ver código en GitHub](https://github.com/danieldhats7/Advanced_Regression_Techniques)
-[<img src="images/house?price.jpg?raw=true"/>](https://github.com/danieldhats7/Advanced_Regression_Techniques)
+[<img src="images/house_price.jpg?raw=true"/>](https://github.com/danieldhats7/Advanced_Regression_Techniques)
 
 ---
 
