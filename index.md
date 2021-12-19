@@ -1,5 +1,5 @@
 # Bienvenido a mi Portafolio de Ciencia de Datos
-<a href="/pdf/plantilla-curriculum-blanco2.pdf">Mira mi Curriculum Vitae (CV) </a> 
+<a href="/pdf/plantilla-curriculum-blanco.pdf">Mira mi Curriculum Vitae (CV) </a> 
 <br><br>
 <a href="/pdf/Efecto de los factores internos en la rentabilidad bancaria.pdf">Mira mi Tesis de Bachiller </a>
 
@@ -30,7 +30,7 @@ Evaluación de la tasa de crecimiento del ROA durante en período Enero 2014 al 
 
 ### Me puedes contactar por una de estás vías
 
-- [LinkedIn](https://www.linkedin.com/in/daniel-reyes-barrera-02b9731b0/)
+- [LinkedIn](https://www.linkedin.com/in/danieldhats7)
 - Envíame un mensaje a <danieldhatsct@gmail.com>
 - [GitHub](https://github.com/danieldhats7)
 - [Twitter](https://twitter.com/danieldhats7)
