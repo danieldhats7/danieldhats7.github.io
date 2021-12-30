@@ -5,9 +5,9 @@
 
 ---
 
-### Mi primer proyecto
+# Proyectos Personales
 
-# [Convolutional Network from scratch](https://medium.com/@danieldhats7/red-neuronal-convolucional-desde-0-f3150ba0b57e)
+## [Convolutional Network from scratch](https://medium.com/@danieldhats7/red-neuronal-convolucional-desde-0-f3150ba0b57e)
 
 Programación de una red neuronal convolucional desde 0 en C++ para la detección de imagenes. 
 
@@ -15,7 +15,7 @@ Programación de una red neuronal convolucional desde 0 en C++ para la detecció
 
 [Seguir leyendo en Medium](https://medium.com/@danieldhats7/red-neuronal-convolucional-desde-0-f3150ba0b57e) o [Ver código en GitHub](https://github.com/danieldhats7/Convolutional-Neural-Network_cpp)
 ---
-# Prediccion del precio de viviendas
+## Prediccion del precio de viviendas
 
 Analisis del precio de viviendas a partir de distintas caracteristicas. Skills:
 * Data cleaning
