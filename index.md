@@ -26,7 +26,7 @@ Seguir leyendo en [Medium](https://medium.com/@danieldhats7/red-neuronal-convolu
 
 Analisis del precio de viviendas a partir de distintas caracteristicas. Skills:
 * Data cleaning
-* Feature engineer
+* Feature engineering
 * Data visualization
 * Embeding models
 * XGBRegressor
