@@ -9,8 +9,13 @@
 
 ## [Convolutional Network from scratch](https://medium.com/@danieldhats7/red-neuronal-convolucional-desde-0-f3150ba0b57e)
 
-Programación de una red neuronal convolucional desde 0 en C++ para la detección de imagenes.
-
+Programación de una red neuronal convolucional desde 0 en C++ para la detección de imagenes. Las operaciones implementadas fueron:
+* Convolución 2D
+* Funciones de activación
+* Max-Pooling
+* Loss funtion
+* Forward pass
+* BackPropagation y update weights
 
 [<img src="images/red.png">](https://github.com/danieldhats7/Convolutional-Neural-Network_cpp)
 
