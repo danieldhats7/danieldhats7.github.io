@@ -13,7 +13,7 @@ Programación de una red neuronal convolucional desde 0 en C++ para la detecció
 
 [<img src="images/red.png?raw=true"/>](https://github.com/danieldhats7/Convolutional-Neural-Network_cpp)
 
-[Seguir leyendo en Medium](https://medium.com/@danieldhats7/red-neuronal-convolucional-desde-0-f3150ba0b57e) o [Ver código en GitHub](https://github.com/danieldhats7/Convolutional-Neural-Network_cpp)
+Seguir leyendo en [Medium](https://medium.com/@danieldhats7/red-neuronal-convolucional-desde-0-f3150ba0b57e) o Ver código en [GitHub](https://github.com/danieldhats7/Convolutional-Neural-Network_cpp)
 ---
 ## Prediccion del precio de viviendas
 
@@ -26,7 +26,7 @@ Analisis del precio de viviendas a partir de distintas caracteristicas. Skills:
 
 [<img src="images/house_price.jpg?raw=true"/>](https://github.com/danieldhats7/Advanced_Regression_Techniques)
 
-[Seguir leyendo en Medium](https://medium.com/@danieldhats7) o [Ver código en GitHub](https://github.com/danieldhats7/Advanced_Regression_Techniques)
+Seguir leyendo en [Medium](https://medium.com/@danieldhats7) o Ver código en [GitHub](https://github.com/danieldhats7/Advanced_Regression_Techniques)
 ---
 
 ### Mis Skills son
