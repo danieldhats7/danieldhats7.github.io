@@ -1,5 +1,5 @@
 # Bienvenido a mi Portafolio de Ciencia de Datos
-<a href="/pdf/plantilla-curriculum-blanco.pdf">Mira mi Curriculum Vitae (CV) </a> 
+<a href="/pdf/cv.pdf">Mira mi Curriculum Vitae (CV) </a> 
 <br><br>
 
 
@@ -26,9 +26,10 @@ Seguir leyendo en [Medium](https://medium.com/@danieldhats7/red-neuronal-convolu
 
 Analisis del precio de viviendas a partir de distintas caracteristicas. Skills:
 * Data cleaning
+* Exploratory data analysis (EDA)
 * Feature engineering
 * Data visualization
-* Embeding models
+* Embedding models
 * XGBRegressor
 
 [<img src="images/house_price.jpg">](https://github.com/danieldhats7/Advanced_Regression_Techniques)
