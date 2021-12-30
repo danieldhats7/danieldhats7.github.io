@@ -42,8 +42,8 @@ Analisis del precio de viviendas a partir de distintas caracteristicas. Skills:
 
 ### Me puedes contactar por una de estás vías
 
-- [LinkedIn](https://www.linkedin.com/in/danieldhats7)
 - Envíame un mensaje a <danieldhatsct@gmail.com>
+- [LinkedIn](https://www.linkedin.com/in/danieldhats7)
 - [GitHub](https://github.com/danieldhats7)
 - [Twitter](https://twitter.com/danieldhats7)
 - [Medium](https://medium.com/@danieldhats7)
