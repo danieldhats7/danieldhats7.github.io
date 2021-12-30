@@ -7,9 +7,10 @@
 
 ### Mi primer proyecto
 
-[# Convolutional Network from scratch](https://medium.com/@danieldhats7/red-neuronal-convolucional-desde-0-f3150ba0b57e)
+# [Convolutional Network from scratch](https://medium.com/@danieldhats7/red-neuronal-convolucional-desde-0-f3150ba0b57e)
 <br><br>
 Programación de una red neuronal convolucional desde 0 en C++ para la detección de imagenes. [Seguir leyendo en Medium](https://medium.com/@danieldhats7/red-neuronal-convolucional-desde-0-f3150ba0b57e) o [Ver código en GitHub](https://github.com/danieldhats7/Convolutional-Neural-Network_cpp)
+
 [<img src="images/red.png?raw=true"/>](https://github.com/danieldhats7/Convolutional-Neural-Network_cpp)
 
 ---
