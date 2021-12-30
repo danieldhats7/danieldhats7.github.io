@@ -31,7 +31,7 @@ Analisis del precio de viviendas a partir de distintas caracteristicas. Skills:
 * Embeding models
 * XGBRegressor
 
-[<img src="images/house_price.jpg>](https://github.com/danieldhats7/Advanced_Regression_Techniques)
+[<img src="images/house_price.jpg">](https://github.com/danieldhats7/Advanced_Regression_Techniques)
 
 Ver código en [GitHub](https://github.com/danieldhats7/Advanced_Regression_Techniques)
 
