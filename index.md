@@ -17,9 +17,9 @@ Programación de una red neuronal convolucional desde 0 en C++ para la detecció
 * Forward pass
 * BackPropagation y update weights
 
-[<img src="images/red.png">](https://github.com/danieldhats7/Convolutional-Neural-Network_cpp)
+[<img src="images/red.png">](https://github.com/danieldhats7/Convolutional_Neural_Network_from_Scratch)
 
-Seguir leyendo en [Medium](https://medium.com/@danieldhats7/red-neuronal-convolucional-desde-0-f3150ba0b57e) o Ver código en [GitHub](https://github.com/danieldhats7/Convolutional-Neural-Network_cpp)
+Seguir leyendo en [Medium](https://medium.com/@danieldhats7/red-neuronal-convolucional-desde-0-f3150ba0b57e) o Ver código en [GitHub](https://github.com/danieldhats7/Convolutional_Neural_Network_from_Scratch)
 
 ---
 ## [Prediccion del precio de viviendas](https://github.com/danieldhats7/Advanced_Regression_Techniques)
